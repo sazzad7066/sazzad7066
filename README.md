@@ -3,13 +3,13 @@
 ## Web Developer
 
 
-I'm Sazzadul Islam. I am an enthusiastic web developer. I like to create a website with these technologies such as HTML, CSS, Bootstrap, and JavaScript. Also, I am trying to learn new technologies about web development to explore the world wide web and try to be a world-class developer
+I'm Sazzadul Islam. I am an enthusiastic web developer. I want to create a website using HTML, CSS, Bootstrap, and JavaScript technologies. Also, I am trying to learn new technologies about web development to explore the World Wide Web and try to be a world-class developer.
 
 Skills: Html5/Css3/ Bootstrap/,Tailwind/ Javascript
 
-- 🔭 I’m currently working on study 
+- 🔭 I’m currently working on a study 
 - 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on githup 
+- 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Google /Youtube/Friend 
 
 
